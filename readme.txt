@@ -1,4 +1,5 @@
-![Website Screenshot](screencapture-photographywebsite-infinityfreeapp-home-2025-07-02-11_18_19.png)
+<img src="screencapture-photographywebsite-infinityfreeapp-home-2025-07-02-11_18_19.png" alt="Screenshot" width="600"/>
+
 
 
 
