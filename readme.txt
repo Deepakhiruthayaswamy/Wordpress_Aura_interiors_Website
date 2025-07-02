@@ -1,6 +1,32 @@
 <img src="screencapture-photographywebsite-infinityfreeapp-home-2025-07-02-11_18_19.png" alt="Screenshot" width="600"/>
 
 
+📌 Features <br>
+
+*** Fully responsive and mobile-friendly design
+
+*** Built using Elementor Page Builder
+
+*** Elegant homepage with featured services and image galleries
+
+*** About, Services, Portfolio, and Contact sections
+
+*** Easy-to-edit layout for future updates
+
+*** Clean and modern design aesthetics
+
+🔧 Technologies Used  <br>
+
+WordPress CMS
+
+*** Elementor (Free/Pro)
+
+*** Custom styling with CSS
+
+*** Phlox theme (or your chosen theme)
+
+*** Hosted via InfinityFree
+
 
 
 === Hello Elementor ===
