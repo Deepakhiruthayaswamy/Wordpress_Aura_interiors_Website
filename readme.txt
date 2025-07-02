@@ -1,4 +1,4 @@
-![My Screenshot]()
+[View the PDF](screencapture-photographywebsite-infinityfreeapp-home-2025-07-02-11_07_16.pdf)
 
 
 === Hello Elementor ===
